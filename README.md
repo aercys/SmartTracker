@@ -1,4 +1,4 @@
-#Smart Tracker Project
+# Smart Tracker Project
 
 This project aims to build low cost tracking device using STM32F103
 microcontroller.
